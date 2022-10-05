@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello everyone<br>👨‍💻Who am I?<br>I'm working as programmer with experience  10+ on Web, Desktop and Mobile<br>🔭 What am I working on?<br>I’m currently working on project in MOSTBYTE "POS ECO SYSTEM"<br>👯 Did I collaborate? <br>I’m looking to collaborate on<br>🌱What am I learning <br>now I'm learning computer vision
+👋 Hello everyone<br>👨‍💻Who am I?<br>I'm working as programmer with experience  10+ on Web, Desktop and Mobile<br>🔭 What am I working on?<br>I’m currently working on project in MOSTBYTE "POS ECO SYSTEM"<br>👯 Did I collaborate? <br>I’m collaborate with @mostbyte<br>🌱What am I learning <br>now I'm learning computer vision
 
 
 ## 🌐 Socials:
